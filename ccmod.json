@@ -1,0 +1,10 @@
+{
+	"id": "cc-bingo",
+	"version": "0.0.1",
+	"title": "CrossCode Bingo",
+	"description": "Play Bingo with achievements",
+	"repository": "https://github.com/buanjautista/cc-bingo",
+	"tags": ["puzzle"],
+	"authors": "Juanba",
+	"plugin": "plugin.js"
+}
